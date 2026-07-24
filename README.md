@@ -793,13 +793,16 @@ body.light-theme .site-header {
 }
 ```
 ## OUTPUT
-<img width="816" height="353" alt="Screenshot 2026-07-24 145518" src="https://github.com/user-attachments/assets/decaedd4-dd52-4062-aff4-7a2d46f34a10" />
-<img width="822" height="520" alt="Screenshot 2026-07-24 145510" src="https://github.com/user-attachments/assets/55709175-abc0-41d0-a8af-d4aa37fb0f27" />
-<img width="820" height="598" alt="Screenshot 2026-07-24 145456" src="https://github.com/user-attachments/assets/f527d724-184c-49c0-b92d-8fe59f10caab" />
-<img width="822" height="682" alt="Screenshot 2026-07-24 145442" src="https://github.com/user-attachments/assets/47cdca86-318f-4c9a-9f2a-57da06c525b3" />
+
+
+
+
 <img width="812" height="691" alt="Screenshot 2026-07-24 145430" src="https://github.com/user-attachments/assets/56e45dbb-7063-42e6-aa59-e3c1a8fba476" />
+<img width="822" height="682" alt="Screenshot 2026-07-24 145442" src="https://github.com/user-attachments/assets/47cdca86-318f-4c9a-9f2a-57da06c525b3" />
 
 
-
+<img width="820" height="598" alt="Screenshot 2026-07-24 145456" src="https://github.com/user-attachments/assets/f527d724-184c-49c0-b92d-8fe59f10caab" />
+<img width="822" height="520" alt="Screenshot 2026-07-24 145510" src="https://github.com/user-attachments/assets/55709175-abc0-41d0-a8af-d4aa37fb0f27" />
+<img width="816" height="353" alt="Screenshot 2026-07-24 145518" src="https://github.com/user-attachments/assets/decaedd4-dd52-4062-aff4-7a2d46f34a10" />
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
